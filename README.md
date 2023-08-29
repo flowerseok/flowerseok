@@ -1,4 +1,4 @@
-### Songjiseok
+### Songjiseok 18 Sogang computer science
 
 <!--
 **flowerseok/flowerseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
